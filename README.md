@@ -1,2 +1,2 @@
 # -Javascript-vanilla-parte-uno-
-Ejercicios resueltos
+Ejercicios resueltos del pdf "Vanilla (I)"
