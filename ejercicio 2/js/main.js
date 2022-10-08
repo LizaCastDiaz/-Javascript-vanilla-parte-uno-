@@ -3,6 +3,6 @@
 // bienvenida por consola. Por ejemplo: si introduzco “Fernando”, me aparezca
 // “Bienvenido Fernando”.
 
-// var nombre = "liza";
-// console.log(nombre + " bienvenida");
+var nombre = "liza";
+console.log(nombre + " bienvenida");
 
